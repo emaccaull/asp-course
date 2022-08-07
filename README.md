@@ -1,2 +1,3 @@
-# asp-course
-Audio Signal Processing for Music Applications projects and experiments (Coursera Course)
+# Audio Signal Processing for Music Applications
+
+This repository contains the code and assignments as I go through the [Coursera course](https://www.coursera.org/learn/audio-signal-processing).
