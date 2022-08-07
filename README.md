@@ -5,7 +5,7 @@ course](https://www.coursera.org/learn/audio-signal-processing).
 
 ## Requirements
 
-- Python 2.7.18 (see .python-version file)
+- Python 3.10 (see .python-version file)
 - It's best to setup a virtual env for this project
   - Locally, I have a virtual env named "asp" using `penv virtualenv`
 
